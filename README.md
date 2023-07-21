@@ -1,13 +1,23 @@
 # Least_Squares_Method
 
+<!-- TOC -->
 
+- [1. Código-fonte](#1-código-fonte)
+
+- [2. Exemplo](#2-exemplo)
+    - [2.1 Entradas](#21-entradas)
+    - [2.2 Saídas](#22-saídas)
+
+<!-- /TOC -->
 
 # 1. Código-fonte
 
 Como trabalho proposto na disciplina de Métodos Numéricos, o objetivo era desenvolver uma aplicação que implementa a Regressão Linear pelo método dos mínimos quadrados.
 O design da apalicação foi efetuado através de 3 módulos, o **InterfaceEntrada.py**, **InterfaceSaida.py** e **CalculoRegressaoLinear.py**, sendo o módulo que inicializa a aplicação o **InterfaceEntrada.py**.
 
-**OBS.:**Certifique-se de instalar previamente as bibliotecas utilziadas antes de executar a aplicação
+# 2. Exemplo de Uso
+
+**OBS.:** Certifique-se de instalar previamente as bibliotecas utilziadas antes de executar a aplicação
 
 1. pip install numpy
 2. pip install tkinter
